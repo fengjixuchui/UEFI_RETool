@@ -9,4 +9,5 @@ modules/
 .vscode/
 
 # Files
-config.json
+log/ida_log_all.json
+log/ida_log_all.md
